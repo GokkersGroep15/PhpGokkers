@@ -16,13 +16,16 @@
     <source src="" type="video/ogg">
 </video>
 </div>
-
+<div class="welcome">
 <h2>Welcome, <?php ?></h2>
-
+</div>
+<div class="info">
 <h3>Informatie</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laudantium nam, quam. Commodi cum dignissimos distinctio,
     eaque eveniet illum incidunt inventore libero, odio odit perferendis quae ratione temporibus ut vel, vitae?</p>
-
+</div>
+<div class="download">
 <h4>Download link</h4>
+</div>
 </body>
 </html>
