@@ -13,8 +13,7 @@
 <h1>De Gokkers Groep 15</h1>
 
 <video width="320" height="240" controls>
-    <source src="" type="video/mp4">
-    <source src="" type="video/ogg">
+    <source src="videos/PlaceHolderVideo.mp4" type="video/mp4">
 </video>
 </div>
 <div class="welcome">
@@ -26,7 +25,9 @@
     eaque eveniet illum incidunt inventore libero, odio odit perferendis quae ratione temporibus ut vel, vitae?</p>
 </div>
 <div class="download">
+
 <h4>Download link</h4>
+
 </div>
 </body>
 </html>
