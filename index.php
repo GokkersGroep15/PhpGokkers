@@ -27,7 +27,7 @@
 </div>
 <div class="download">
 
-    <h4>Download link</h4>
+    <a href="">Download link</a>
 
 </div>
 </body>
