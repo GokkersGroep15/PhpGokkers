@@ -48,6 +48,8 @@ html {
 .download{
     text-decoration: underline;
     font-size: 25px;
+    display: flex;
+
 }
 
 
