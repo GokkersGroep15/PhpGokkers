@@ -9,16 +9,18 @@
         <title>De Gokkers</title>
     </head>
     <body>
-    <div class="header">
-        <h1>De Gokkers Groep 15</h1>
-        <img src="img/hamster1.PNG" alt="">
-        <img src="img/hamster2.PNG" alt="">
-        <img src="img/hamster3.PNG" alt="">
-        <img src="img/hamster4.PNG" alt="">
+    <div class="container">
+        <div class="header">
+            <h1>De Gokkers Groep 15</h1>
+        <img src="img/hamster1.PNG" alt="hamster 1">
+        <img src="img/hamster2.PNG" alt="hamster 2">
+        <img src="img/hamster3.PNG" alt="hamster 3">
+        <img src="img/hamster4.PNG" alt="hamster 4">
 
         <video width="320" height="240" controls>
             <source src="videos/PlaceHolderVideo.mp4" type="video/mp4">
         </video>
+    </div>
     </div>
     <div class="welcome">
         <h2>Welcome, <?php ?></h2>
