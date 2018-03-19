@@ -23,7 +23,7 @@
         <div class="welcome">
             <h2>Welcome, <?php ?></h2>
         </div>
-        <div class="info">
+        <div id="info">
             <h3>Informatie</h3>
             <p>Deze website is bedoeld voor een project genaamd "De Gokkers". Deze applicatie simuleert een race</p>
             <p> tussen 5 hamsters. Er zijn 3 "Guys" : Sietse, Lidy en Fer. Zij kunnen ieder op 1 hamster wedden. </p>
@@ -37,7 +37,6 @@
         <div class="download">
 
             <a href="">Download link</a>
-
         </div>
         </body>
         </html>
