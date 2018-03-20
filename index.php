@@ -28,6 +28,9 @@
             <p>Deze website is bedoeld voor een project genaamd "De Gokkers". Deze applicatie simuleert een race</p>
             <p> tussen 5 hamsters. Er zijn 3 "Guys" : Sietse, Lidy en Fer. Zij kunnen ieder op 1 hamster wedden. </p>
             <p>De laatste hamster, die ook Sietse heet verdwijnt na de eerste race.</p>
+            <p>Als de hamster waar een van de guys op heeft gewed, wordt zijn of haar inzet verdubbeld.</p>
+            <p>Als je hamster niet wint, verlies je het geld wat je hebt ingezet.</p>
+            <p>De race zelf is volledig random.</p>
             <div id="video">
                 <video width="320" height="240" controls>
                     <source src="videos/DeGokkers.mp4" type="video/mp4">
