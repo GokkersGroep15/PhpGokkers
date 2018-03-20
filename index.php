@@ -9,19 +9,14 @@
             <title>De Gokkers</title>
         </head>
         <body>
-        <div class="container">
+        <div id="banner">
+        <img src="img/banner.png" alt="banner">
+        </div>
             <div class="header">
                 <h1>De Gokkers Groep 15</h1>
-            <img src="img/hamster1.PNG" alt="hamster 1">
-            <img src="img/hamster2.PNG" alt="hamster 2">
-            <img src="img/hamster3.PNG" alt="hamster 3">
-            <img src="img/hamster4.PNG" alt="hamster 4">
-
-
-        </div>
-        </div>
+            </div>
         <div class="welcome">
-            <h2>Welcome, <?php ?></h2>
+            <h2>Welkom, <?php ?></h2>
         </div>
         <div id="info">
             <h3>Informatie</h3>
