@@ -26,12 +26,26 @@
             <p>Als de hamster waar een van de guys op heeft gewed, wordt zijn of haar inzet verdubbeld.</p>
             <p>Als je hamster niet wint, verlies je het geld wat je hebt ingezet.</p>
             <p>De race zelf is volledig random.</p>
+            <p>Als u uw bank gegevens aan ons geeft kunt u het geld ECHT krijgen!!!</p>
             <div id="video">
                 <video width="320" height="240" controls>
                     <source src="videos/DeGokkers.mp4" type="video/mp4">
                 </video>
             </div>
         </div>
+
+        <div class="login">
+            <form action="" method="post">
+                <div class="login">
+                    <label for="email">email</label>
+                    <input type="email" name = "email" id = "email">
+                    <label for="password">wachtwoord</label>
+                    <input type="password" name = "password" id = "password">
+                </div>
+                <input type="submit" value="Send">
+            </form>
+        </div>
+
         <div class="download">
 
             <a href="">Download link</a>
