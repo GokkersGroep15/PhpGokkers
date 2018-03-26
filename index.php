@@ -29,7 +29,7 @@
             <p>Als u uw bank gegevens aan ons geeft kunt u het geld ECHT krijgen!!!</p>
             <div id="video">
                 <video width="320" height="240" controls>
-                    <source src="videos/DeGokkers.mp4" type="video/mp4">
+                    <source src="videos/DeGokkers(2).mp4" type="video/mp4">
                 </video>
             </div>
         </div>
