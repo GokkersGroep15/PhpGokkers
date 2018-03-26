@@ -28,7 +28,7 @@ html {
 #banner img{
     display: flex;
     justify-content: center;
-    width: 1266px;
+    width: 1296px;
     height: 120px;
     margin-left: -10px;
     margin-bottom: 10px;
@@ -89,11 +89,8 @@ width: 60%;
 /*===========================================================================================================
                                         Download
 ===========================================================================================================*/
-.download{
-    text-decoration: underline;
-    font-size: 25px;
-    margin-top: 200px;
-    margin-left: 500px;
+.download img{
+    width: 100px;
 
 }
 
